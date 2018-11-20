@@ -1,4 +1,4 @@
 # Predict-The-Criminal-Hackerearth
 Competetion on Hackerearth to predict the criminal from the given dataset
 
-Solution will be uploaded when the competition will be over. 
+The final work is submittes in the file 'Predict the criminal-f1.ipynb'.
